@@ -23,6 +23,7 @@ ng g s customer/in-memory-data --skip-tests --flat --dry-run
 - customer-list.component.html
 - customer-edit.component.ts
 - customer-edit.component.html
+- app.component.html
 
 # Step 03
 ```
